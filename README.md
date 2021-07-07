@@ -1,7 +1,7 @@
-# SITE DA VALQUÍRIA
+# Página da Valquíria
 
 
-## _PAGINA DO GITHUB_
+## _Elaboração da página utilizando Markdown_
 
 
 
