@@ -21,6 +21,7 @@
 - listen to music (my favorite band is pink floyd)https://www.youtube.com/playlist?list=OLAK5uy_mOd2Ws36n_VlDvTIUsyWGb3Y9UVIlB9BA&playnext=1&index=1
 - read books of the cyberpunk fiction genre 📚
 - interest in life sciences and research 🔬
+- I joined the group "Neuroliga-UFSM", (medical group focused on neuroscience research) [neuroliga](https://linktr.ee/Neuroliga_UFSM)
  
 ### *It is all for now folks*
 
