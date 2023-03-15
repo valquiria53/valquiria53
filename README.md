@@ -20,6 +20,4 @@ I study computer science integrated in CTISM school.🎓**
 
 
 
-### *It is all for now folks*
 
-![N|Solid](https://offloadmedia.feverup.com/saopaulosecreto.com/wp-content/uploads/2020/10/19073834/0d380ebe-dcf9-11e8-9f04-38d397e6661c-1024x576.jpg)
