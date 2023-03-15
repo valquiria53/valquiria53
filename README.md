@@ -15,15 +15,8 @@ I study computer science integrated in CTISM school.🎓**
 - arduino and sensor programming🤖
 - website development💻
 - interest in life sciences and research🔬
-- biomedicine👩🏻‍ 🔬
- 
-<div> 
-  <a href="https://github.com/valquiria53">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=valquiria53&the"
-  <img height="180cm" src=""     
-</div>
- 
- 
+- biomedicine👩🏻‍ 
+
  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark"
@@ -36,7 +29,7 @@ I study computer science integrated in CTISM school.🎓**
 <img src="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true" />
 </picture>
  
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true)
  
 ### *It is all for now folks*
 
