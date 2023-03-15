@@ -17,19 +17,7 @@ I study computer science integrated in CTISM school.🎓**
 - interest in life sciences and research🔬
 - biomedicine👩🏻‍ 
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: onedark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true"
-  media="(prefers-color-scheme: onedark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true" />
-</picture>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valquiria53)](https://github.com/valquirira53/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=transparent)
 
 ### *It is all for now folks*
 
