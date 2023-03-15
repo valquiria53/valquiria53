@@ -7,21 +7,17 @@
 **My name is Valquíria Carvalho, I'm from Rio Grande do Sul, Santa Maria.**
 
 **I study computer science integrated in CTISM school.🎓**
+**I am currently doing an internship as a page administrator for the telecommunications engineering course at the Federal University of Santa Maria ➡️ https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-de-telecomunicacoes**
 
-## My initial goal for this page is to present my learning in git hub using Markdown language and using certain commands listed below ✨
 
-- git add
-- git commit
-- git branch
-- git merge
-- git push
+
  
-## My hobbies are:✨
+## My interest are:
 
-- listen to music (my favorite band is pink floyd)https://www.youtube.com/playlist?list=OLAK5uy_mOd2Ws36n_VlDvTIUsyWGb3Y9UVIlB9BA&playnext=1&index=1
-- read books of the cyberpunk fiction genre 📚
+- arduino and sensor programming
+- website development
 - interest in life sciences and research 🔬
-- I joined the group "Neuroliga-UFSM", (medical group focused on neuroscience research) [neuroliga](https://linktr.ee/Neuroliga_UFSM)
+- biomedicine
  
 ### *It is all for now folks*
 
