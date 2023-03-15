@@ -25,6 +25,10 @@ I study computer science integrated in CTISM school.🎓**
 <img src="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true" />
 </picture>
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/valquiria53/github-readme-stats#gh-dark-mode-only)
+
+
+
 ### *It is all for now folks*
 
 ![N|Solid](https://offloadmedia.feverup.com/saopaulosecreto.com/wp-content/uploads/2020/10/19073834/0d380ebe-dcf9-11e8-9f04-38d397e6661c-1024x576.jpg)
