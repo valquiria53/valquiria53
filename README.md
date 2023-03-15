@@ -19,8 +19,8 @@ I study computer science integrated in CTISM school.🎓**
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: radical)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true" />
 </picture>
