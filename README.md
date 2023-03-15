@@ -15,10 +15,10 @@
  
 ## My interest are:
 
-- arduino and sensor programming
-- website development
-- interest in life sciences and research 🔬
-- biomedicine
+- arduino and sensor programming🤖
+- website development💻
+- interest in life sciences and research🔬
+- biomedicine👩🏻‍ 🔬
  
 ### *It is all for now folks*
 
