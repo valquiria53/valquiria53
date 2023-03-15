@@ -11,14 +11,33 @@
 **I am currently doing an internship as a page administrator for the telecommunications engineering course at the Federal University of Santa Maria ➡️ https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-de-telecomunicacoes**
 
 
-
- 
 ## My interest are:
 
 - arduino and sensor programming🤖
 - website development💻
 - interest in life sciences and research🔬
 - biomedicine👩🏻‍ 🔬
+ 
+<div> 
+  <a href="https://github.com/valquiria53">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=valquiria53&the"
+  <img height="180cm" src=""     
+</div>
+ 
+ 
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true" />
+</picture>
+ 
+ 
  
 ### *It is all for now folks*
 
