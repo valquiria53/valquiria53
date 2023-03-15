@@ -18,8 +18,6 @@ I study computer science integrated in CTISM school.🎓**
 - biomedicine👩🏻‍ 
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/valquiria53/github-readme-stats#gh-dark-mode-only)
-
 
 
 ### *It is all for now folks*
