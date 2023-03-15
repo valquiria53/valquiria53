@@ -17,7 +17,7 @@ I study computer science integrated in CTISM school.🎓**
 - interest in life sciences and research🔬
 - biomedicine👩🏻‍ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&bg_color=fffefe)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=valquiria53&show_icons=true&bg_color= #74992e)
 
 ### *It is all for now folks*
 
