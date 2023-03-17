@@ -1,4 +1,4 @@
-# Hii!
+# Hello!
 ## _This page is dedicated to the homework of algorithms and programming_
 
 
