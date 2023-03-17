@@ -9,6 +9,9 @@ I study computer science integrated in CTISM school.🎓**
 
 **I am currently doing an internship as a page administrator for the telecommunications engineering course at the Federal University of Santa Maria ➡️ https://www.ufsm.br/cursos/graduacao/santa-maria/engenharia-de-telecomunicacoes**
 
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+
+
 
 ## My interest are:
 
